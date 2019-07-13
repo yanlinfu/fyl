@@ -1,0 +1,119 @@
+.margin {
+  width: 63.8541666667vw;
+  margin: 0 auto; }
+
+#top a {
+  display: block;
+  margin-top: 2.5520833333vw; }
+
+#main {
+  margin-top: 2.3958333333vw;
+  height: 37.5vw;
+  background: url("../images/banner2.jpg") no-repeat;
+  background-size: 100vw; }
+
+.login_mian {
+  position: relative; }
+
+.login {
+  background: #fff;
+  width: 24.53125vw;
+  height: 28.6875vw;
+  position: absolute;
+  right: 0;
+  top: 0.125vw;
+  border: 1px solid #999; }
+
+.title {
+  text-align: center;
+  height: 6.25vw;
+  line-height: 6.25vw; }
+
+.title span {
+  font-size: 1.25vw;
+  color: #cc5252; }
+
+.phone_number {
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw; }
+
+.phone_number input {
+  border: 0;
+  outline: none; }
+
+.yanzhnegma_txt {
+  margin-top: 1.3020833333vw;
+  height: 2.6041666667vw; }
+
+.yanzhnegma_txt_left {
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw;
+  width: 12.6041666667vw;
+  float: left; }
+
+.yanzhnegma_txt_left input {
+  border: 0;
+  outline: none; }
+
+.yanzhnegma_txt_right {
+  width: 5.041667vw;
+  height: 2.5vw;
+  line-height: 2.5vw;
+  text-align: center;
+  float: left;
+  margin-left: 0.3125vw;
+  border: 1px solid #e8e8e8; }
+
+.pwd_txt {
+  margin-top: 1.3020833333vw;
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw; }
+
+.pwd_txt input {
+  border: 0;
+  outline: none; }
+
+.p1 {
+  color: red;
+  height: 2.0833333333vw;
+  line-height: 2.0833333333vw;
+  display: none; }
+
+.margin2 {
+  width: 19.21875vw;
+  margin: 0 auto; }
+
+.denflu {
+  width: 19.21875vw;
+  margin: 0 auto;
+  height: 2.5vw;
+  line-height: 2.5vw;
+  background: #cc5252;
+  margin-top: 0.7291666667vw;
+  font-size: 1.1458333333vw;
+  color: #fff;
+  text-align: center; }
+
+.zhuce {
+  margin-top: 1.0416666667vw; }
+
+.zhuce a {
+  font-size: 0.8333333333vw;
+  color: #999999; }
+
+#foot {
+  height: 6.7708333333vw;
+  margin-top: 3.3333333333vw; }
+
+#foot p {
+  text-align: center;
+  height: 1.25vw;
+  line-height: 1.25vw;
+  color: #999999; }
+
+/*# sourceMappingURL=login.css.map */
+
+/*# sourceMappingURL=login.css.map */

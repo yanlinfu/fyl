@@ -1,0 +1,150 @@
+.margin {
+  width: 34.854167vw;
+  margin: 0 auto; }
+
+#top {
+  height: 9.9479166667vw;
+  line-height: 9.9479166667vw; }
+
+#top a {
+  margin-left: 0.78125vw; }
+
+body {
+  background: #fafafa; }
+
+.rbody {
+  background: #fff;
+  height: 39.0625vw;
+  border: 1px solid #999; }
+
+.rbody_middle {
+  width: 21.7708333333vw;
+  margin: 0 auto; }
+
+.rbody_middle .rbody_top {
+  height: 7.3958333333vw;
+  line-height: 7.3958333333vw;
+  padding-top: 0.5208333333vw; }
+
+.rbody_middle .rbody_top p {
+  text-align: center;
+  font-size: 1.6666666667vw; }
+
+.phone_number {
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw; }
+
+.phone_number img {
+  display: inline-block;
+  width: 0.78125vw;
+  height: 1.0416666667vw;
+  padding: 0 0.7291666667vw; }
+
+.phone_number input {
+  border: 0;
+  outline: none; }
+
+.yanzhengma {
+  margin-top: 0.5208333333vw; }
+
+.yanzhnegma_txt {
+  height: 2.6041666667vw; }
+
+.yanzhnegma_txt_left {
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw;
+  width: 14.6875vw;
+  float: left;
+  cursor: pointer; }
+
+.yanzhnegma_txt_left img {
+  display: inline-block;
+  width: 0.78125vw;
+  height: 1.0416666667vw;
+  padding: 0 0.7291666667vw; }
+
+.yanzhnegma_txt_left input {
+  border: 0;
+  outline: none;
+  width: 10vw; }
+
+.yanzhnegma_txt_right {
+  width: 6.1458333333vw;
+  height: 2.5vw;
+  line-height: 2.5vw;
+  text-align: center;
+  float: left;
+  margin-left: 0.625vw;
+  border: 1px solid #e8e8e8; }
+
+.pwd_txt {
+  margin-top: 0.5208333333vw;
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw; }
+
+.pwd_txt img {
+  display: inline-block;
+  width: 0.78125vw;
+  height: 1.0416666667vw;
+  padding: 0 0.7291666667vw; }
+
+.pwd_txt input {
+  border: 0;
+  outline: none; }
+
+.pwd_check_txt {
+  margin-top: 0.5208333333vw;
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw; }
+
+.pwd_check_txt img {
+  display: inline-block;
+  width: 0.78125vw;
+  height: 1.0416666667vw;
+  padding: 0 0.7291666667vw; }
+
+.pwd_check_txt input {
+  border: 0;
+  outline: none; }
+
+.tuijian_people_txt {
+  margin-top: 0.5208333333vw;
+  border: 1px solid #e8e8e8;
+  height: 2.5vw;
+  line-height: 2.5vw;
+  display: none; }
+
+.tuijian_people_txt input {
+  border: 0;
+  outline: none;
+  text-indent: 0.7291666667vw; }
+
+.zhuce {
+  height: 2.5vw;
+  background: #b32424;
+  border-radius: 0.3125vw;
+  margin-top: 1.8229166667vw;
+  line-height: 2.5vw;
+  text-align: center;
+  font-size: 0.8333333333vw;
+  color: #fff; }
+
+.food {
+  margin-top: 1.7708333333vw; }
+
+.food p {
+  color: #999999; }
+
+.p1 {
+  color: red;
+  height: 2.0833333333vw;
+  line-height: 2.0833333333vw;
+  display: none; }
+
+/*# sourceMappingURL=register.css.map */
+
+/*# sourceMappingURL=register.css.map */
